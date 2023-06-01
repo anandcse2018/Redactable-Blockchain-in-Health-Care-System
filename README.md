@@ -1,2 +1,3 @@
 # Redactable-Blockchain-in-Health-Care-System
 Redactable Blockchain in Health Care System
+Blockchain technology has emerged as a promising solution for a secure healthcare system. However, the immutability of blockchain also poses a challenge when sensitive or erroneous data needs to be removed. Redactable blockchain presents a solution to this challenge by allowing for the selective deletion of data without compromising the integrity and security of the remaining data. This paper has proposed a trustworthy healthcare data management scheme based on a redactable blockchain. The scheme allows for the removal of sensitive data without disrupting the consistency and validity of the remaining data.
